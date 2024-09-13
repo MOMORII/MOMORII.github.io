@@ -82,12 +82,12 @@ hgroup
     background-color: rgb(247, 232, 255);
     color: rgb(124, 103, 145);
     text-align: center;
-    margin: 10px 100px;
     border-radius: 2vw;
     padding-top: 1px;
     padding-bottom: 1px;
     padding-left: 2vw;
     padding-right: 2vw;
+    margin-bottom: 2vw;
     font-size: 1.25vw;
 }
 
@@ -132,6 +132,19 @@ article > footer
 .footer-content a {
     margin: 0;
     padding: 0;
+}
+
+section
+{
+    background-color: rgb(244, 227, 255);
+    transform: scale(1.25vw);
+    padding-top: 1px;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    margin-bottom: 0;
+    border-radius: 2vw;
+    color: rgb(125, 101, 148);
+    font-size: 1.45vw;
 }
 
 section, footer>h2
@@ -266,6 +279,7 @@ aside
 {
     margin-right: 1.25vw;
     width: 20%;
+    background-color: rgb(247, 232, 255)
 }
 
 
